@@ -9,4 +9,5 @@ s.source           = { :git => 'https://github.com/denismullaraj/DMHoneyCombGrid
 s.ios.deployment_target = '9.0'
 s.source_files = 'DMHoneyCombGrid/Classes/**/*'
 s.frameworks = 'UIKit'
+s.swift_version = '5.0'
 end
