@@ -1,5 +1,5 @@
 PODS:
-  - DMHoneyCombGrid (0.1.0)
+  - DMHoneyCombGrid (1.0.0)
 
 DEPENDENCIES:
   - DMHoneyCombGrid (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  DMHoneyCombGrid: d154032fd27bfdc928c40687211c0185c44a9dd6
+  DMHoneyCombGrid: a8e7df4679f3dd95a936ec5b911cdf1b5ffdffbc
 
 PODFILE CHECKSUM: 0d50c8185b1aa2b5ebb6c65024f271bb7df49930
 

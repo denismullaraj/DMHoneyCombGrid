@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 s.name             = 'DMHoneyCombGrid'
-s.version          = '0.1.0'
-s.summary          = 'A short description of DMHoneyCombGrid.'
+s.version          = '1.0.0'
+s.summary          = 'DMHoneyCombGrid is a dynamically created a HoneyCombGrid of horizontally oriented hexagon shaped cells of any cell-per-side amount with autolayout'
 s.homepage         = 'https://github.com/denismullaraj/DMHoneyCombGrid'
 s.license          = { :type => 'MIT', :file => 'LICENSE' }
 s.author           = { 'Denis Mullaraj' => 'denis.mullaraj@hotmail.com' }
