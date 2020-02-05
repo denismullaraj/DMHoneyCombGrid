@@ -20,7 +20,7 @@ class ViewController: UIViewController, HoneyCombGridDelegate {
         view.addSubview(containerView)
         containerView.widthAnchor.constraint(equalTo: view.widthAnchor).isActive = true
         containerView.heightAnchor.constraint(equalTo: view.heightAnchor).isActive = true
-        containerView.backgroundColor = UIColor(red: 254.0 / 255.0, green: 213.0 / 255.0, blue: 151.0 / 255.0, alpha: 1.0)
+        containerView.backgroundColor = UIColor(red: 3.0 / 255.0, green: 101.0 / 255.0, blue: 237.0 / 255.0, alpha: 1.0)
         
         loadGrid()
     }
