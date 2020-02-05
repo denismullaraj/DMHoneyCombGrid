@@ -9,7 +9,7 @@ Demo app to show how to dynamically create a HoneyCombGrid of horizontally orien
 
 Sample of iOS UIView for a HoneyCombGrid 2x2 with random sample background colors:
 
-![sample](Screenshots/horizontal-hex-grid-2x2.png)
+![sample](https://github.com/denismullaraj/DMHoneyCombGrid/blob/master/Screenshots/horizontal-hex-grid-2x2.png)
 
 ## Example
 
