@@ -1,0 +1,6 @@
+framework module Pods_DMHoneyCombGrid_Example {
+  umbrella header "Pods-DMHoneyCombGrid_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

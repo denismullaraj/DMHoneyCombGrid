@@ -1,0 +1,6 @@
+framework module DMHoneyCombGrid {
+  umbrella header "DMHoneyCombGrid-umbrella.h"
+
+  export *
+  module * { export * }
+}

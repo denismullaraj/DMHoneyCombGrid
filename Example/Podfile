@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'DMHoneyCombGrid_Example' do
+  pod 'DMHoneyCombGrid', :path => '../'
+
+  target 'DMHoneyCombGrid_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

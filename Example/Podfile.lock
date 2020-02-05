@@ -1,0 +1,16 @@
+PODS:
+  - DMHoneyCombGrid (0.1.0)
+
+DEPENDENCIES:
+  - DMHoneyCombGrid (from `../`)
+
+EXTERNAL SOURCES:
+  DMHoneyCombGrid:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  DMHoneyCombGrid: d154032fd27bfdc928c40687211c0185c44a9dd6
+
+PODFILE CHECKSUM: 0d50c8185b1aa2b5ebb6c65024f271bb7df49930
+
+COCOAPODS: 1.8.4

@@ -1,0 +1,22 @@
+{
+  "name": "DMHoneyCombGrid",
+  "version": "0.1.0",
+  "summary": "A short description of DMHoneyCombGrid.",
+  "homepage": "https://github.com/denismullaraj/DMHoneyCombGrid",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Denis Mullaraj": "denis.mullaraj@hotmail.com"
+  },
+  "source": {
+    "git": "https://github.com/denismullaraj/DMHoneyCombGrid.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "DMHoneyCombGrid/Classes/**/*",
+  "frameworks": "UIKit"
+}
