@@ -5,7 +5,7 @@
 [![License](https://img.shields.io/cocoapods/l/DMHoneyCombGrid.svg?style=flat)](https://cocoapods.org/pods/DMHoneyCombGrid)
 [![Platform](https://img.shields.io/cocoapods/p/DMHoneyCombGrid.svg?style=flat)](https://cocoapods.org/pods/DMHoneyCombGrid)
 
-Demo app to show how to dynamically create a HoneyCombGrid of any cell-per-side amount with autolayout.
+Demo app to show how to dynamically create a HoneyCombGrid of horizontally oriented hexagon shaped cells of any cell-per-side amount with autolayout.
 
 Sample of iOS UIView for a HoneyCombGrid 2x2 with random sample background colors:
 
@@ -69,6 +69,7 @@ class ViewController: UIViewController, HoneyCombGridDelegate {
 ```
 
 <br>
+
 ## Author
 
 Denis Mullaraj, denis.mullaraj@hotmail.com
