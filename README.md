@@ -27,7 +27,7 @@ pod 'DMHoneyCombGrid'
 ## Usage
 Just add it as a view and set some constraint on it as you prefer, preferably set yourself as the delegate (`HoneyCombGridDelegate`) and implement `func honeyCombTapped(on cell: UIView)` to receive individual cell taps:
 
-```
+```swift
 import UIKit
 import DMHoneyCombGrid
 
